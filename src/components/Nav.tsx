@@ -11,7 +11,6 @@ const links = [
   { href: "/part_4", label: "Part 4" },
   { href: "/part_5", label: "Part 5" },
   { href: "/part_6", label: "Part 6" },
-  { href: "/health", label: "Health" },
 ];
 
 export default function Nav() {
